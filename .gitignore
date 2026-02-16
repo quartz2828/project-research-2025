@@ -1,0 +1,10 @@
+.vscode/
+venv/
+cpython/
+old/
+sample/
+data/
+results_models/
+eval_results/
+__pycache__/
+*.pyc
