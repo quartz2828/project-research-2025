@@ -1,4 +1,5 @@
 .vscode/
+.DS_Store
 venv/
 cpython/
 old/
@@ -7,6 +8,8 @@ data/
 results_models/
 eval_results/
 __pycache__/
+model_part_aa
+model_part_ab
 *.pyc
 *.zip
 *.tar.gz
