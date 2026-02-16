@@ -25,6 +25,7 @@ pip install -r requirements.txt
 # aa
 
 ## 📂 ディレクトリ構成 (Directory Structure)
+```text
 .
 ├── .gitignore/ 
 ├── predict_emoji.py     # 完成したメインスクリプト
@@ -34,4 +35,5 @@ pip install -r requirements.txt
 ├── eval_results/        # 評価結果 (GoogleDriveで管理)
 ├── requirements.txt     # 依存ライブラリ
 └── README.md            # このファイル
+```
 
